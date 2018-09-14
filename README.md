@@ -18,3 +18,7 @@ Per effettuare il deployment è necessario Windows Server, IIS 8, ASP.NET 4.5.2 
 
 # Cosa fare dopo il deployment?
 Dopo il deployment si consiglia di fare login nel backend con la password di default "default" per creare una home page (per farlo bisogna creare una pagina statica con titolo "Home"), modificare la password di default e sostituire il titolo predefinito.
+
+# Maggiori informazioni
+Per maggiori informazioni siete invitati a visionare l'apposito articolo sul mio sito web
+http://www.emilianosandri.it/index.php/14-progetti/16-guidaweb
